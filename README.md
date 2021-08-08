@@ -1,4 +1,4 @@
-### Hi there 👋
+### Wanna be computer vision enginner
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=graywhite&show_icons=true)](https://github.com/kmuhan)
 
