@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=solarized-light&show_icons=true)](https://github.com/kmuhan)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=graywhite&show_icons=true)](https://github.com/kmuhan)
 
 <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=black"/>
 <!--
