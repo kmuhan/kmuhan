@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=solarized-light&show_icons=true)](https://github.com/kmuhan)
 
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <!--
 **kmuhan/kmuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
