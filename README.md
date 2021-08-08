@@ -1,6 +1,6 @@
 ### Wanna be computer vision enginner
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=graywhite&show_icons=true)](https://github.com/kmuhan)
+<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=graywhite&show_icons=true)](https://github.com/kmuhan)</p>
 
 <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=black"/>
 <!--
