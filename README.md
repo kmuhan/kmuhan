@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=graywhite&show_icons=true)](https://github.com/kmuhan)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmuhan)](https://github.com/kmuhan)
+
 ## 💻 Stacks 💻
 
 <center><div float="left"><img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=black"/><img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=Next.js&logoColor=black"/><img src="https://img.shields.io/badge/OpenCV-ffffff?style=flat-square&logo=OpenCV&logoColor=black"/><img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=C++&logoColor=black"/><img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"/><img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=black"/><img src="https://img.shields.io/badge/Amazon%20AWS-ffffff?style=flat-square&logo=Amazon%20AWS&logoColor=black"/></div></center>
