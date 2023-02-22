@@ -1,8 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmuhan&theme=dark&show_icons=true)](https://github.com/kmuhan)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kmuhan&theme=dark&show_icons=true" align="center"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmuhan&layout=compact)](https://github.com/kmuhan)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmuhan&layout=compact" align="center"></p>
 
-## 💻 Stacks 💻
+<p align="center"><h1>💻 Stacks 💻</h1></p>
+
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
