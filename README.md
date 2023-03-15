@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmuhan&layout=compact" align="center"></p>
 
-<p align="center"><h1>💻 Stacks 💻</h1></p>
+<div align="center"><p align="center"><h1>💻 Stacks 💻</h1></p></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
