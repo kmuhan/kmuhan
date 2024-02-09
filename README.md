@@ -9,7 +9,7 @@
 
 ### Recent Projects
 - Emoji generation model with stable diffusion (2024.01.- present)
-- Context document based Personal beverage recommendation system (2023.12.- present)
+- Context-sentiment lexicon based Personal beverage recommendation system (2023.12.- present)
 - Implement DDPM with code(2023.08.- 2023.12)
 
 ## Affiliations
