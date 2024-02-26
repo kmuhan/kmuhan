@@ -8,8 +8,8 @@
 - Recommendation System
 
 ### Recent Projects
-- Emoticon generation model using DreamBooth (2024.01.- present)
 - Context-sentiment lexicon based Personal beverage recommendation system (2023.12.- present)
+- Emoticon generation model using DreamBooth (2024.01.- 2024.03.)
 - Implement DDPM with code(2023.08.- 2023.12)
 
 ## Affiliations
