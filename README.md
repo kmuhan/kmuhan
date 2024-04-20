@@ -4,13 +4,14 @@
 ## About me
 ### Interested In
 - Generative AI Model, xAi
-- Computer Vision, LLM
+- Computer Vision, LLM, Sequential Model
 - Recommendation System
 
 ### Recent Projects
+- Brain signal encoding with LLM's strategy (2024.01.- present)
 - Context-sentiment lexicon based Personal beverage recommendation system (2023.12.- present)
 - Emoticon generation model using DreamBooth (2024.01.- 2024.03.)
-- Implement DDPM with code(2023.08.- 2023.12)
+- Implementation of DDPM based on paper (2023.08.- 2023.12)
 
 ## Affiliations
 - ***BOAZ*** Bigdata University Student Organization
@@ -19,4 +20,4 @@
 ## Languages
 - Korean - native
 - English - intermediate high
-- Japanese - advanced fluent
+- Japanese - near native
