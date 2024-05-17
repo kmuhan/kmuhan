@@ -1,5 +1,7 @@
 ## Education
-***Kookmin Univ.*** Bachelor's Degree of *Computer Science* (2020.03.- present)
+***Kookmin University.*** Bachelor's Degree of *Computer Science* (2020.03.- present)
+
+***University of California at Irvine.*** Student Research Assistant (2024.05.- present) 
 
 ## About me
 ### Interested In
@@ -8,6 +10,7 @@
 - Recommendation System
 
 ### Recent Projects
+- Customized 3D Object Rendering Model Using Nerf-Based DreamGaussian (2023.04.- present)
 - Brain signal encoding with LLM's strategy (2024.01.- present)
 - Context-sentiment lexicon based Personal beverage recommendation system (2023.12.- present)
 - Emoticon generation model using DreamBooth (2024.01.- 2024.03.)
