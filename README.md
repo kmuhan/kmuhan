@@ -10,11 +10,12 @@
 - Recommendation System
 
 ### Recent Projects
-- Customized 3D Object Rendering Model Using Nerf-Based DreamGaussian (2023.04.- present)
 - Brain signal encoding with LLM's strategy (2024.01.- present)
-- Context-sentiment lexicon based Personal beverage recommendation system (2023.12.- present)
-- Emoticon generation model using DreamBooth (2024.01.- 2024.03.)
-- Implementation of DDPM based on paper (2023.08.- 2023.12)
+- Context-sentiment lexicon based Personal beverage recommendation system [(2023.12.- 2024.06.)](https://github.com/D-LINK-alpha)
+- Customized 3D object rendering model using NeRF-Based DreamGaussian (2024.04.- 2024.05.)
+- Emoticon generation model using DreamBooth [(2024.01.- 2024.03.)](https://github.com/kmuhan/22_MiniProject_EmoticonGenerator)
+- Implementation of DDPM based on paper (2023.08.- 2023.12.)
+- Traffic violation detection model using Mask-RCNN [(2021.09.-2021.12.)](https://github.com/kmuhan/kmuhan-2021tvaihackathon)
 
 ## Affiliations
 - ***BOAZ*** Bigdata University Student Organization
