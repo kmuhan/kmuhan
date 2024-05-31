@@ -3,7 +3,7 @@
 
 ***University of California at Irvine.*** Student Research Assistant (2024.05.- present) 
 
-## About me
+## About Me
 ### Interested In
 - Generative AI Model, xAi
 - Computer Vision, LLM, Sequential Model
@@ -17,11 +17,14 @@
 - Implementation of DDPM based on paper (2023.08.- 2023.12.)
 - Traffic violation detection model using Mask-RCNN [(2021.09.-2021.12.)](https://github.com/kmuhan/kmuhan-2021tvaihackathon)
 
-### Extracurricular activities
+### Extracurricular Experiences
 - Software programming instructor, _Unitstudy Education_ (2023.09.- 2024.04)
 - Student research assistant, _Seoul Institute of Technology_ (2023.06.- 2023.08)
 - Network Manager, _Republic of Korea Army_ (2021.12.- 2023.06)
 - Frontend web developer, _Metric Studio Inc. (NNT)_ (2021.06.- 2021.08)
+  
+### Extracurricular Projects
+- _Card.io_, Responsive board-based workspace project [(2022.09.- 2022.12)](https://github.com/cardotio)
 
 ## Affiliations
 - ***BOAZ*** Bigdata University Student Organization
