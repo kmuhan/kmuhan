@@ -1,7 +1,7 @@
 ## Education
 ***Kookmin University.*** Bachelor's Degree of *Computer Science* (2020.03.- present)
 
-***University of California at Irvine.*** Student Research Assistant (2024.05.- present) 
+***University of California at Irvine.*** Student Research Assistant (2024.06.- present) 
 
 ## About Me
 ### Interested In
