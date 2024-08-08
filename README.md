@@ -10,6 +10,7 @@
 - Recommendation System
 
 ### Recent Projects
+- Efficient and Robust Multimodal Machine Learning in Autonomous Vehicles Applications (2024.06.- present)
 - Brain signal encoding with LLM's strategy (2024.01.- present)
 - Context-sentiment lexicon based Personal beverage recommendation system [(2023.12.- 2024.06.)](https://github.com/D-LINK-alpha)
 - Customized 3D object rendering model using NeRF-Based DreamGaussian [(2024.04.- 2024.05.)](https://github.com/kmuhan/22_MiniProject_3Dblahblah)
