@@ -33,7 +33,7 @@
 
 ## Languages
 - Korean - native
-- English - intermediate high
+- English - near native
 - Japanese - near native
 ```
                                     _
