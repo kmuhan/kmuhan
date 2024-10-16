@@ -13,7 +13,7 @@
 ### Recent Projects
 - Resilient Recommendation Systems Considering Textual Reviews (2024.08.- present)
 - Efficient and Robust Multimodal Machine Learning in Autonomous Vehicles Applications (2024.06.- present)
-- Brain Signal Encoding with LLM's Strategy (2024.01.- present)
+- Brain Signal Encoding with LLM's Strategy (2024.01.- 2024.06.)
 - Context-Sentiment Dictionary Based Personal Beverage Recommendation System [(2023.12.- 2024.06.)](https://github.com/D-LINK-alpha)
 - Customized 3D Object Rendering Model Using NeRF-Based DreamGaussian [(2024.04.- 2024.05.)](https://github.com/kmuhan/22_MiniProject_3Dblahblah)
 - Emoticon Generation Model Using DreamBooth [(2024.01.- 2024.03.)](https://github.com/kmuhan/22_MiniProject_EmoticonGenerator)
