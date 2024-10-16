@@ -7,7 +7,7 @@
 ### Interested In
 - Generative AI Model, xAi
 - Computer Vision, LLM, Sequential Model
-- Recommendation System
+- GPU, AI Hardware, Deep Learning Optimization
 - Self Driving Car, Autonomous Vehicle
 
 ### Recent Projects
