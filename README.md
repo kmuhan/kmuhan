@@ -5,7 +5,6 @@
 
 ## About Me
 ### Interested In
-- Generative AI Model, xAi
 - Computer Vision, LLM, Sequential Model
 - GPU, AI Hardware, Deep Learning Optimization
 - Self Driving Car, Autonomous Vehicle
