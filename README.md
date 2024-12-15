@@ -5,9 +5,8 @@
 
 ## About Me
 ### Interested In
-- Computer Vision, LLM, Sequential Model
-- GPU, AI Hardware, Deep Learning Optimization
-- Self Driving Car, Autonomous Vehicle
+- Efficient Deep Learning Optimization, Deep Learning HW/SW co-Optimization
+- Computer Vision, LLM, Sequential Model, Recommendation Systems
 
 ### Recent Projects
 - Enhancing User-Item Interaction using Retrieval Augmented Generation for Recommendation System (2024.08.- present)
