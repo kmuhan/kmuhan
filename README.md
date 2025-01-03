@@ -9,7 +9,7 @@
 - Computer Vision, LLM, Sequential Model, Recommendation Systems
 
 ### Recent Projects
-- Enhancing User-Item Interaction using Retrieval Augmented Generation for Recommendation System (2024.08.- present)
+- Enhancing User-Item Interaction using Retrieval Augmented Generation for Recommendation System (2024.08.- 2024.12)
 - Efficient and Robust Multimodal Machine Learning in Autonomous Vehicles Applications (2024.06.- present)
 - Brain Signal Encoding with LLM's Strategy (2024.01.- 2024.06.)
 - Context-Sentiment Dictionary Based Personal Beverage Recommendation System [(2023.12.- 2024.06.)](https://github.com/D-LINK-alpha)
