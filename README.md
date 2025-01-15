@@ -1,15 +1,21 @@
 ## Education
 ***Kookmin University.*** Bachelor's Degree of *Computer Science* (2020.03.- present)
 
-***University of California at Irvine.*** Student Research Assistant (2024.06.- present) 
+***University of California at Irvine.*** Student Research Assistant (2024.06.- 2024.12.) 
 
 ## About Me
 ### Interested In
 - Efficient Deep Learning Optimization, Deep Learning HW/SW co-Optimization
 - Computer Vision, LLM, Sequential Model, Recommendation Systems
 
+### Experiences
+- Efficient Artificial Intelligence Computing Lab. (2024.09.- present)
+- Dutt Research Group (2024.06.- 2024.09.)
+- HCI Lab. (2024.01.- 2024.06.)
+
 ### Recent Projects
-- Enhancing User-Item Interaction using Retrieval Augmented Generation for Recommendation System (2024.08.- 2024.12)
+- PathOs: A Human-in-the-Loop Web Platform for Pathology WSI Segmentation and Detection (2024.12.- present)
+- Enhancing User-Item Interaction using Retrieval Augmented Generation for Recommendation System (2024.08.- 2024.12.)
 - Efficient and Robust Multimodal Machine Learning in Autonomous Vehicles Applications (2024.06.- present)
 - Brain Signal Encoding with LLM's Strategy (2024.01.- 2024.06.)
 - Context-Sentiment Dictionary Based Personal Beverage Recommendation System [(2023.12.- 2024.06.)](https://github.com/D-LINK-alpha)
@@ -25,6 +31,7 @@
 - Frontend Web Developer, _Metric Studio Inc. (NNT)_ (2021.06.- 2021.08)
   
 ### Extracurricular Projects
+- [I made my research group's website using HUGO](https://github.com/kmuhan/edlo_lab_page)
 - _Card.io_, Responsive Board-Based Workspace Project [(2022.09.- 2022.12)](https://github.com/cardotio)
 
 ## Affiliations
