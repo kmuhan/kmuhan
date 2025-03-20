@@ -31,7 +31,6 @@
 - Frontend Web Developer, _Metric Studio Inc. (NNT)_ (2021.06.- 2021.08)
   
 ### Extracurricular Projects
-- [I made my research group's website using HUGO](https://github.com/kmuhan/edlo_lab_page)
 - _Card.io_, Responsive Board-Based Workspace Project [(2022.09.- 2022.12)](https://github.com/cardotio)
 
 ## Affiliations
