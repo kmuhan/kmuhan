@@ -5,8 +5,8 @@
 
 ## About Me
 ### Interested In
-- Efficient Deep Learning Optimization, Deep Learning HW/SW co-Optimization
-- Computer Vision, LLM, Sequential Model, Recommendation Systems
+- Deep Learning Optimization, Efficient AI
+- Computer Vision, LLM, Recommendation Systems, HW-SW Co-optimization
 
 ### Experiences
 - Efficient Artificial Intelligence Computing Lab. (2024.09.- present)
