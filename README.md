@@ -4,7 +4,9 @@
 ## Experiences
 
 ***POSTECH (Pohang University of Science and Technology).*** Research Internship (2025.07.- present) 
+
 ***Seoul National University Hospital (Capstone).*** Participant in Cooperation Research Project (2025.01.- 2025.06.) 
+
 ***University of California at Irvine.*** Student Research Assistant (2024.06.- 2024.12.) 
 
 ## Interested In
