@@ -1,22 +1,4 @@
-## Education
-***Kookmin University.*** Bachelor's Degree of *Computer Science* (2020.03.- 2026.02. expected)
 
-## Experiences
-
-***POSTECH (Pohang University of Science and Technology).*** Research Internship (2025.07.- present) 
-
-***Seoul National University Hospital (Capstone).*** Participant in Cooperation Research Project (2025.01.- 2025.06.) 
-
-***University of California at Irvine.*** Student Research Assistant (2024.06.- 2024.12.) 
-
-## Interested In
-- Deep Learning Optimization, Efficient AI
-- Computer Vision, LLM, Recommendation Systems, HW-SW Co-optimization
-
-## Languages
-- Korean - Native
-- English - Near Native
-- Japanese - Near Native
 ```
                                     _
                                _.-~~.)
